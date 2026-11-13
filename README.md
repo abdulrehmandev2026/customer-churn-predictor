@@ -1,4 +1,5 @@
 # 📉 Customer Churn Predictor
+🔗 **Live Demo:** https://uky9bhvjstrpdtvxaamjrj.streamlit.app/
 
 A machine learning web application that predicts whether a telecom customer will churn (leave the company) from their account and service details. Built entirely in Python using **Streamlit** for the frontend and **scikit-learn** for the ML backend — no separate server required.
 
